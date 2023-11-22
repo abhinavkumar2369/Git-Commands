@@ -1,4 +1,4 @@
-
+# GIT COMMNANDS
 ## SETUP
 
 Set a name that is identifical.
@@ -29,7 +29,7 @@ git clone [url]
 
 
 
-# STAGE & SNAPSHOT
+## STAGE & SNAPSHOT
 
 Check the status of file created,modified & deleted.
 ```
@@ -43,7 +43,7 @@ git add [file]
 
 
 
-# BRANCH & MERGE
+## BRANCH & MERGE
 
 List of all branches and active branch
 ```
